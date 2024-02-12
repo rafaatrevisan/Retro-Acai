@@ -12,4 +12,4 @@ Através do arquivo "admin.php", que representa a página administrativa, podemo
 
 O sistema tem algumas particularidades, como no cadastro de produtos, onde todas as informações são obrigatórias, exceto a inclusão de uma imagem para o produto, que é opcional. É adicionada uma imagem (logo da empresa) automaticamente caso o usuário não adicione alguma imagem manualmente. Além disso, tanto na página index.php quanto na página admin.php, os produtos são ordenados pelo preço do produto, de maneira crescente.
 
-Para o relatório PDF, foi utilizado o pacote DomPDF através do Composer. Também disponibilizei o arquivo do banco da dados já com alguns dados adicionados, sendo apenas necessário a inclusão desse arquivo através de um SGBD como o MySQL Workbench (no qual eu utilizei).
+Para o relatório PDF, foi utilizado o pacote DomPDF através do Composer. Também disponibilizei o arquivo do banco da dados já com alguns dados adicionados, sendo apenas necessário a inclusão desse arquivo através de um SGBD, como o MySQL Workbench por exemplo (no qual eu utilizei).
