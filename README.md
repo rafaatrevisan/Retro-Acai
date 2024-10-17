@@ -1,6 +1,6 @@
 # Retro Açaí - Catálogo e Gerenciamento de Banco de Dados
 
-Este é um projeto de site web da empresa fictícia Retrô Açaí envolvendo front-end, back-end e banco de dados MySQL feito com base no curso "PHP e MySQL: criando sua primeira aplicação web" da plataforma Alura. 
+Este é um projeto de site web da empresa fictícia Retrô Açaí envolvendo front-end, back-end e banco de dados MySQL.
 
 No sistema é possível através do arquivo "index.php", a página inicial, visualizar toda a lista de produtos catalogados no banco de dados da Retrô Açaí, separados pelas categorias de Açaí e Sorvete.
 
